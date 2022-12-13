@@ -8,6 +8,7 @@
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",
+    "@nrwl/angular": "^15.3.3",
     "husky": "^8.0.2",
     "nx": "15.3.3",
     "prettier": "^2.6.2"
