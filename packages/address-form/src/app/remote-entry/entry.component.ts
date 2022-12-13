@@ -2,6 +2,6 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'address-form-entry',
-  template: `<nx-welcome></nx-welcome>`,
+  template: `<app-nx-welcome></app-nx-welcome>`,
 })
 export class RemoteEntryComponent {}
