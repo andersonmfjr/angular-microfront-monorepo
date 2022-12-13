@@ -432,8 +432,8 @@ import { Component, ViewEncapsulation } from '@angular/core';
         <!--  WELCOME  -->
         <div id="welcome">
           <h1>
-            <span> Hello there, </span>
-            Welcome shell 👋
+            <span> Shell </span>
+            Welcome to shell app 👋
           </h1>
         </div>
 
